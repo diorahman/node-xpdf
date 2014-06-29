@@ -1,0 +1,4 @@
+# node-xpdf
+
+## license
+MIT
