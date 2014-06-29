@@ -1,0 +1,6 @@
+gyp
+.DS_Store
+*.mk
+Makefile
+*.Makefile
+out

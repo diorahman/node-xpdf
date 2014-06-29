@@ -1,0 +1,20 @@
+{
+  "name": "node-xpdf",
+  "version": "0.0.1",
+  "description": "native binding to libxpdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test",
+    "install": "node-gyp rebuild"
+  },
+  "keywords": [
+    "xpdf",
+    "pdfinfo"
+  ],
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "MIT",
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "^1.2.1"
+  }
+}
